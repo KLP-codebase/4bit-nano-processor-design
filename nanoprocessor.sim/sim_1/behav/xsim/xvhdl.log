@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Lenovo/Downloads/S2/CS 1050 computer organization and digital design/Vivado lab files/nanoprocessor/nanoprocessor.srcs/sources_1/new/Register_Bank.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Register_Bank'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Lenovo/Downloads/S2/CS 1050 computer organization and digital design/Vivado lab files/nanoprocessor/nanoprocessor.srcs/sim_1/new/Register_Bank_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Register_Bank_TB'
